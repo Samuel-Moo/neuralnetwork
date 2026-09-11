@@ -1,3 +1,5 @@
+from turtle import backward
+
 import numpy as np
 
 X = np.array([
